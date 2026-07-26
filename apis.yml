@@ -1,8 +1,30 @@
 aid: firstory
 name: Firstory
-description: Firstory is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Firstory is a podcast hosting and monetization platform for creators, holding
+  the leading share of the Mandarin-language podcast market and a growing
+  presence across the Asia-Pacific region with over 14,000 shows. Creators
+  upload an episode once and distribute it to Apple Podcasts, Spotify, KKBOX,
+  YouTube, Amazon Music, Pocket Casts, and more than ten other players, then use
+  AI Studio to auto-generate transcripts, summaries, highlights, and newsletter
+  drafts. Firstory layers on second-by-second analytics, dynamic ad insertion,
+  membership subscriptions, listener donations, cross-promotion, a personal
+  website builder, the Flink universal link, and embeddable players. It does not
+  publish a public developer API; this profile captures the company's public
+  surface and infrastructure signals.
 url: https://raw.githubusercontent.com/api-evangelist/firstory/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://avatars.githubusercontent.com/u/36988299?v=4
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +33,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Podcasting
+- Podcast Hosting
+- Media
+- Audio
+- Monetization
+- Analytics
+- Creator Tools
+- Asia-Pacific
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +53,31 @@ maintainers:
 common:
 - type: Website
   url: https://firstory.me
+- type: Pricing
+  url: https://firstory.me/en/pricing
+- type: Blog
+  url: https://firstory.me/en/blog
+- type: Support
+  name: Help Center
+  url: https://help.firstory.me
+- type: TermsOfService
+  url: https://firstory.me/en/terms-of-service
+- type: PrivacyPolicy
+  url: https://firstory.me/en/privacy-policy
+- type: SignUp
+  url: https://studio.firstory.me/signup
+- type: Login
+  url: https://studio.firstory.me/login
+- type: GitHubOrganization
+  url: https://github.com/Firstory
+- type: LLMsTxt
+  name: llms.txt
+  url: llms/firstory-llms.txt
+- type: DomainSecurity
+  name: Domain security probe
+  url: security/firstory-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

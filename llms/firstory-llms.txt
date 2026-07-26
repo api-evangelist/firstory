@@ -1,0 +1,27 @@
+# Firstory
+
+> Firstory is a podcast hosting platform: host your show, distribute it to every major player in one click, create with AI-powered tools, understand your audience with analytics, and earn through ads, memberships, and listener donations.
+
+## Main pages
+
+- [Home (English)](https://firstory.me/en)
+- [Home (中文)](https://firstory.me/zh)
+- [Home (日本語)](https://firstory.me/ja)
+- [Home (Bahasa Indonesia)](https://firstory.me/id)
+- [Pricing](https://firstory.me/en/pricing)
+- [Blog](https://firstory.me/en/blog)
+- [For advertisers](https://firstory.me/en/advertiser)
+- [Help Center](https://help.firstory.me)
+
+## Features
+
+- [Getting started](https://firstory.me/en/features/support/getting-started)
+- [Data analytics](https://firstory.me/en/features/essentials/data-analytics)
+- [AI Studio](https://firstory.me/en/features/essentials/ai-studio)
+- [Membership subscriptions](https://firstory.me/en/monetize/membership/membership-subscription)
+- [Ad revenue](https://firstory.me/en/monetize/ad-revenue/ad-revenue)
+- [Compare Firstory vs Buzzsprout](https://firstory.me/en/compare/buzzsprout-alternative)
+
+## Full page index
+
+- [Sitemap](https://firstory.me/sitemap.xml)
