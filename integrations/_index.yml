@@ -28,3 +28,16 @@
     builder: unknown (not in the directory record)
   status: not-a-workflow
   arazzo: null
+- slug: firstory-apple-own
+  label: Apple (own)
+  partner: apple
+  partner_name: Apple (own)
+  category: podcast hosting
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://firstory.me
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
